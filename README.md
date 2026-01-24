@@ -1,5 +1,5 @@
 Soy Diego Evaristo Flores Gutiérrez, futuro licenciado en ciencias ambientales
-Me interesan los ecosistemas costeros y marinos y los problemas socioambientales.
+Me interesan los ecosistemas costeros y marinos, los problemas socioambientales y los impactos de las especies invasoras.
 Mi enfoque se basa en:
 - Análisis de datos R & Python.
 - Visión computacional.
