@@ -7,8 +7,14 @@ Mi enfoque se basa en:
 - Curacón de datos de avistamiento de especies en formato Darwin Core.
 
 
-📫 How to reach me floresgtzevaristo@gmail.com or diego flores on instagram and facebook
+📫 How to reach me floresgtzevaristo@gmail.com 
 
+"""
+Diego Flores, an education in environmental science
+I work with costal and marine enviroments about socioenvironmental analysis and mapping (QGIS); 
+Darwin Core-compliant ecological database standards; 
+assistance with computer vision image classification or AI-related projects.
+""""
 <!---
 DiegoFlores00/DiegoFlores00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
